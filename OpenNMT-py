@@ -1,0 +1,17 @@
+To run the dataset for Neural machine translation :
+
+Install Open-NMT-py in a GPU environment from:  https://github.com/OpenNMT/OpenNMT-py.git
+with command 
+#pip install OpenNMT-py
+git clone https://github.com/OpenNMT/OpenNMT-py.git
+cd OpenNMT-py
+pip install -e .
+
+Steps:
+create: src-train.txt, src-test.txt, src-valid.txt, tgt-train.txt, tgt-valid.txt, tgt-test.txt 
+Pre-Process the Source and Target files
+Train
+and Translate 
+
+
+Download pretrained models from: https://opennmt.net/Models-py/
