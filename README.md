@@ -1,5 +1,5 @@
 # DG-EN-corpus
-updating created dataset for MT task
+updating Digaru-English dataset for MT task
 
 Please send request to gain access of the datas in this repository in apnit548@gmail.com.
 
